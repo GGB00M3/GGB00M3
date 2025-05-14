@@ -72,11 +72,11 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-
+<picture>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GGB00M3&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<picture>
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=GGB00M3)
-
+<picture>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
-
+<picture>
 
