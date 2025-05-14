@@ -110,13 +110,13 @@
 <!-- ########################################## 分割 ########################################## -->
 <div align=center>
   
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=GGB00M3)
+<img width="200%" ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=GGB00M3)
 
 </div>
 <!-- ########################################## 分割 ########################################## -->
 <div align=center>
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
+<img width="200%" ![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
 
 </div>
 
