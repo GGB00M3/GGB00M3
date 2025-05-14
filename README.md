@@ -80,8 +80,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=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/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&type=Date)](https://www.star-history.com/#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/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&Date)
 
 
