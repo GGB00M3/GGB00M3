@@ -75,6 +75,13 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 <!-- ########################################## 分割 ########################################## -->
+<div align=center>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GGB00M3&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
 <!-- ```
  __      __  ______  ____    ____    __  __  ____
 /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
@@ -91,13 +98,6 @@
 <p align="center"><i>(猪猪侠)</i></p>
 
 <br /> <br />
-
-<!-- ########################################## 分割 ########################################## -->
-<div align=center>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GGB00M3&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <div align=center>
