@@ -1,10 +1,11 @@
+<!-- ########################################## 分割 ########################################## -->
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);二货同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
-
+<!-- ########################################## 分割 ########################################## -->
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -14,7 +15,7 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
+<!-- ########################################## 分割 ########################################## -->
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="###/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
@@ -28,7 +29,7 @@
     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
-
+<!-- ########################################## 分割 ########################################## -->
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -37,13 +38,13 @@
   </picture>
 
 </div>
-
+<!-- ########################################## 分割 ########################################## -->
 #  🙋 Hello
 
 <table>
   
 <tr><td>
-
+<!-- ########################################## 分割 ########################################## -->
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/assets/images/coffee.gif" />
@@ -74,12 +75,6 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 <!-- ########################################## 分割 ########################################## -->
-<div align=center>
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
-
-</div>
-
 <!-- ```
  __      __  ______  ____    ____    __  __  ____
 /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
@@ -104,6 +99,12 @@
 
 </div>
 
+<!-- ########################################## 分割 ########################################## -->
+<div align=center>
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
+
+</div>
 <!-- ########################################## 分割 ########################################## -->
 <div align=center>
   
