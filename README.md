@@ -79,11 +79,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GGB00M3/GGB00M3/refs/heads/main/github-metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GGB00M3/GGB00M3/refs/heads/main/github-metrics.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GGB00M3/GGB00M3/refs/heads/main/github-metrics.svg">
-</picture>
-
 
