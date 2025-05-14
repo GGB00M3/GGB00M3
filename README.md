@@ -47,7 +47,7 @@
 <!-- ########################################## 分割 ########################################## -->
 ### 🤺 About Me
 
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/assets/images/coffee.gif" />
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN@master/assets/images/coffee.gif" />
 
 <p>&emsp;&emsp;嗨，你好，我是猪猪侠。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
