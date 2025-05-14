@@ -80,3 +80,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GGB00M3)
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
