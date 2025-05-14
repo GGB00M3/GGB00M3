@@ -108,6 +108,6 @@
 
 <img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
 
-<p align="center"><i>(drawing by me)</i></p>
+<p align="center"><i>(猪猪侠)</i></p>
 
 <br /> <br />
